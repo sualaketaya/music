@@ -1,0 +1,336 @@
+{
+  "app": {
+    "status": true,
+    "report_email": "help.solodroid@gmail.com",
+    "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
+    "more_apps_url": "https://aliendro.id/profile/solodroid",
+    "redirect_url": "https://aliendro.id/profile/solodroid",
+    "enable_app_protection": false,
+    "base64_license_key": ""
+  },
+  "ads": {
+    "ad_status": true,
+    "main_ads": "admob",
+    "backup_ads": "facebook",
+    "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+    "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
+    "ad_manager_banner_id": "/6499/example/banner",
+    "ad_manager_interstitial_id": "/6499/example/interstitial",
+    "ad_manager_rewarded_id": "/6499/example/rewarded",
+    "ad_manager_native_id": "/6499/example/native",
+    "ad_manager_app_open_id": "/6499/example/app-open",
+    "fan_banner_id": "YOUR_PLACEMENT_ID",
+    "fan_interstitial_id": "YOUR_PLACEMENT_ID",
+    "fan_rewarded_id": "YOUR_PLACEMENT_ID",
+    "fan_native_id": "YOUR_PLACEMENT_ID",
+    "startapp_app_id": "0",
+    "unity_game_id": "4089993",
+    "unity_banner_id": "banner",
+    "unity_interstitial_id": "video",
+    "unity_rewarded_id": "rewardedVideo",
+    "applovin_max_banner_id": "0",
+    "applovin_max_interstitial_id": "0",
+    "applovin_max_rewarded_id": "0",
+    "applovin_max_native_manual_id": "0",
+    "applovin_max_app_open_id": "0",
+    "applovin_discovery_banner_zone_id": "0",
+    "applovin_discovery_banner_mrec_zone_id": "0",
+    "applovin_discovery_interstitial_zone_id": "0",
+    "applovin_discovery_rewarded_zone_id": "0",
+    "ironsource_app_key": "85460dcd",
+    "ironsource_banner_id": "DefaultBanner",
+    "ironsource_interstitial_id": "DefaultInterstitial",
+    "ironsource_rewarded_id": "DefaultRewardedVideo",
+    "wortise_app_id": "test-app-id",
+    "wortise_banner_id": "test-banner",
+    "wortise_interstitial_id": "test-interstitial",
+    "wortise_rewarded_id": "test-interstitial",
+    "wortise_native_id": "test-native",
+    "wortise_app_open_id": "test-app-open",
+    "interstitial_ad_interval": 3,
+    "native_ad_interval": 10,
+    "native_ad_index": 7,
+    "native_ad_style_audio_list": "medium",
+    "native_ad_style_exit_dialog": "medium",
+    "placement": {
+      "banner_home": true,
+      "interstitial_audio_list": true,
+      "rewarded_audio_download": true,
+      "native_ad_audio_list": true,
+      "native_ad_exit_dialog": true,
+      "app_open_ad_on_start": true,
+      "app_open_ad_on_resume": true
+    }
+  },
+  "categories": [
+    {
+      "title": "Koes Plus",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/koes-plus.jpg"
+    },
+    {
+      "title": "Panbers",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/panbers.jpg"
+    },
+    {
+      "title": "God Bless",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/god-bless.jpg"
+    },
+    {
+      "title": "D'Lloyd",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/dlloyd.jpg"
+    },
+    {
+      "title": "Bimbo",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/bimbo.jpg"
+    },
+    {
+      "title": "The Mercys",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/the-mercys.jpg"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Cinta Mulia",
+      "category": "Koes Plus",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/koes-plus.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/koes-plus-cinta-mulia.mp3?rewarded=true",
+      "lyric": "<p>Sepasang remaja jatuh cinta<br />dibawah asuhan dewi asmara<br />Disinari cahya purnama<br />Disaksikan bintang bintang sejuta<br /><br />Saling janji dan setia<br />Hidup rukun damai selamanya<br />Membina rumah tangga<br />sampai nanti di hari tua<br /><br />Cinta itu suci dan mulia<br />Jika tak ternoda nafsu yang hina<br />Rasa cinta itu bahagia<br />Kalau bukan hanya inginkan harta<br /><br />Suka duka bersama<br />Seiring sejalan seirama<br />Tahan uji dan derita<br />Hidup pasti bagai di surga<br /><br />Sungguh indah cita cita mereka<br />Semoga bahagia selamanya</p>"
+    },
+    {
+      "id": 2,
+      "title": "Kembali Ke Jakarta",
+      "category": "Koes Plus",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/koes-plus.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/koes-plus-kembali-ke-jakarta.mp3?rewarded=true",
+      "lyric": "<p>Disana rumahku<br />Dalam kabut biru<br />Hatiku sedih di hari Minggu<br />Disana kasihku<br />Berdiri menunggu<br />Dibatas waktu yang t&rsquo;lah tertentu</p><p>Ke jakarta aku kan kembali<br />Walaupun apa yang kan terjadi<br />Ke jakarta aku kan kembali<br />Walaupun apa yang kan terjadi</p><p>Pernah ku alami<br />Hidup ku sendiri<br />Teman ku pergi dan menjauhi<br />Lama ku menanti<br />Ku harus mencari<br />Atau ku tiada dikenal lagi</p><p>Ke jakarta aku kan kembali<br />Walaupun apa yang kan terjadi<br />Ke jakarta aku kan kembali<br />Walaupun apa yang kan terjadi</p><p>Ke Jakarta<br />Ke Jakarta</p>"
+    },
+    {
+      "id": 3,
+      "title": "Layang Layang",
+      "category": "Koes Plus",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/koes-plus.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/koes-plus-layang-layang.mp3?rewarded=true",
+      "lyric": "<p>Layang layang yang ku sayang<br />Layang layang yang ku sayang<br />Jauh tinggi sekali melayang layang</p><p>Layang layang benang panjang<br />Layang layang benang panjang<br />Ku tarik kencang sekali putus di tangan</p><p>Layang layang layang layang yang ku sayang<br />Jauh tinggi melayang akhirnya jatuh di hutan<br />Benang panjang benang panjang ikut melayang<br />Hancur lebur berantakan karena datangnya hujan</p><p>Layang layang yang ku sayang<br />Jauh tinggi melayang akhirnya jatuh di hutan<br />Benang panjang benang panjang ikut melayang<br />Hancur lebur berantakan karena datangnya hujan</p>"
+    },
+    {
+      "id": 4,
+      "title": "Manis Dan Sayang",
+      "category": "Koes Plus",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/koes-plus.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/koes-plus-manis-dan-sayang.mp3?rewarded=true",
+      "lyric": "<p>Tersenyum dianya padaku<br />Manis, manis, manis<br />Kubelai rambutnya yang hitam<br />Sayang, sayang, sayang</p><p>Alangkah senang hatiku<br />Bila ku dekat denganmu<br />Alangkah senang hatiku<br />Sayangku hanya untukmu</p><p>Kuingin tamasya bersama<br />Jauh, jauh, jauh<br />Melihat pemandangan alam<br />Indah, indah, indah</p><p>Alangkah senang hatiku<br />Bila ku dekat denganmu<br />Alangkah senang hatiku<br />Sayangku hanya untukmu.</p>"
+    },
+    {
+      "id": 5,
+      "title": "Pagi Yang Indah",
+      "category": "Koes Plus",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/koes-plus.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/koes-plus-pagi-yang-indah-sekali.mp3?rewarded=true",
+      "lyric": "<p>Pagi yang indah sekali<br />Membawa hati bernyanyi<br />Walau gadisku t&#39;lah pergi<br />Dan takkan mungkin kembali, mm ya</p><p>Kini ku seorang diri<br />Berteman burung kenari<br />Kenari penghibur hati<br />Bernyanyi setiap pagi, mm ya</p><p>Burung kenari<br />Pujaan hati<br />S&#39;lalu bernyanyi<br />Setiap pagi, mm ya</p><p>Kau burung kenari<br />Pernahkah dikau bersedih<br />Waktu ditinggal kekasih<br />Namun tak s&#39;lalu bersedih<br />Setiap pagi bernyanyi, mm ya</p><p>Pagi yang indah sekali, mm ya<br />Pagi yang indah sekali, mm ya<br />Pagi yang indah sekali, mm ya</p>"
+    },
+    {
+      "id": 6,
+      "title": "Kau Tetap Milikku",
+      "category": "Panbers",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/panbers.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/panbers-kau-tetap-milikku.mp3?rewarded=true",
+      "lyric": "<p>Kini ku rasakan indahnya cinta dalam hidupku<br />Yang telah ku dambakan dari kasihku<br />Yang kini jadi milikku</p><p>Meski lama kunantikan<br />Saat semua di sinar rembulan<br />Malam penuh bintang indah berkilauan<br />Dan dikau kasih disampingku</p><p>Padamu kasih ku nyatakan<br />Cintaku murni tak bercelah<br />Ku harap engkau sabar dan setia<br />Menunggu saat kita berdua</p><p>Usah bimbang dan ragu<br />Penuh harapan tetap menanti<br />Kau tetap milikku sampai akhir nanti<br />Percayalah daku milikmu</p><p>Padamu kasih kunyatakan<br />Cintaku murni tak bercelah<br />Kuharap engkau sabar dan setia<br />Menunggu saat kita berdua</p><p>Usah bimbang dan ragu<br />Penuh harapan tetap menanti<br />Kau tetap milikku sampai akhir nanti<br />Percayalah daku milikmu</p>"
+    },
+    {
+      "id": 7,
+      "title": "Bunga Lukisan",
+      "category": "Panbers",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/panbers.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/panbers-bunga-lukisan.mp3?rewarded=true",
+      "lyric": "<p>Ku lukiskan bunga itu dalam lubuk hatiku<br />Dimalam yang sunyi kala ku sendiri<br /><br />Ku bayangkan bunga itu mengingatkan namamu<br />Ku goreskan dihatiku bunga yang berseri<br /><br />Bila kukenangkan wajahmu yang ayu<br />Bagai bunga itu seindah namamu<br />Tak akan kulupakan didalam hatiku<br /><br />Ku bayangkan bunga itu mengingatkan namamu<br />Ku goreskan dihatiku bunga yang berseri<br /><br />Bila kukenangkan wajahmu yang ayu<br />Bagai bunga itu seindah namamu<br />Tak akan kulupakan didalam hatiku<br />Tak akan kulupakan didalam hatiku</p>"
+    },
+    {
+      "id": 8,
+      "title": "Mawar Hitam",
+      "category": "Panbers",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/panbers.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/panbers-mawar-hitam.mp3?rewarded=true",
+      "lyric": "<p>Daku tak berdaya menanggung nasibku<br />Daku tak kuasa menahan deritaku<br />Dulu hidupku tiada begini<br />Tiada kusangka nasibku begini<br />Dulu diriku selalulah mewangi<br />Semua orang selalu memuji</p><p>Kini hidupku bagai mawar hitam<br />Mewangi tak berseri<br />Tiada orang memandang diriku lagi<br />Hanya harumku yang dicari<br />Ingin rasanya daku kembali<br />Menjadi mawar putih kembali<br />Tetapi selalu berat dihatiku<br />Dalam hatiku selalu sanksi</p><p>Kini hidupku bagai mawar hitam<br />Mewangi tak berseri<br />Tiada orang memandang diriku lagi<br />Hanya harumku yang dicari<br />Ingin rasanya daku kembali<br />Menjadi mawar putih kembali<br />Tetapi selalu berat dihatiku<br />Dalam hatiku selalu sanksi</p><p>Kini hidupku bagai mawar hitam<br />Mewangi tak berseri<br />Kini hidupku bagai mawar hitam<br />Mewangi tak berseri<br />Kini hidupku bagai mawar hitam<br />Mewangi tak berseri<br />Kini hidupku bagai mawar hitam<br />Mewangi tak berseri</p>"
+    },
+    {
+      "id": 9,
+      "title": "Pandangan Pertama",
+      "category": "Panbers",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/panbers.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/panbers-pandangan-pertama.mp3?rewarded=true",
+      "lyric": "<p>Pandangan pertama kala kita berjumpa<br />Untuk pertama kali hatiku berdebar<br />Tanganku gemetar semua tak sadar<br />Pandangan pertama membuat hati gelisah</p><p>Pikiran tak tenang khayalan melayang<br />Setiap saat ingin berjumpa<br />Dalam hatiku bertanya<br />Mengapa begini jadinya?<br />Tak ku sadari aku jatuh cinta<br />Pada pandangan pertama</p><p>Pandangan pertama kala kita berjumpa<br />Untuk pertama kali hatiku berdebar<br />Tanganku gemetar semua tak sadar<br />Pandangan pertama membuat hati gelisah</p><p>Pikiran tak tenang khayalan melayang<br />Setiap saat ingin berjumpa<br />Dalam hatiku bertanya<br />Mengapa begini jadinya?<br />Tak kusadari aku jatuh cinta<br />Pada pandangan pertama</p>"
+    },
+    {
+      "id": 10,
+      "title": "Siti Nurbaya",
+      "category": "Panbers",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/panbers.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/panbers-siti-nurbaya.mp3?rewarded=true",
+      "lyric": "<p>Selama hidupnya<br />Selalu menderita<br />Hidup sebatang kara<br />Sangat merana<br /><br />Setelah dewasa sebagai gadis jelita<br />Banyak orang yang ingin mempersuntingnya<br />Suatu saat dia menikah<br />Dengan pria idamannya<br /><br />Memang sudah nasibnya<br />Ia dimadu pula<br />Oh nasibmu siti nurbaya<br />Hidupmu penuh dengan air mata</p>"
+    },
+    {
+      "id": 11,
+      "title": "Jalan Pulang",
+      "category": "God Bless",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/god-bless.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/god-bless-jalan-pulang.mp3?rewarded=true",
+      "lyric": "<p>Ada yang pergi menembus kegelapan<br />Tinggalkan puing cinta berserakan<br />Kering sudah tanah harapan<br />Saat cinta terbang ke awan<br />Makin kelam semua warna kehidupan<br />Wo-ho</p><p>Ada yang pergi menembus kegelapan<br />Menghitung waktu terbuang sia-sia<br />Hilang sudah semua impian<br />Saat langkah pudar tujuan<br />Kelelahan makin menerjang perjalanan</p><p>Ke mana harusnya kaki melangkah?<br />Ketika hati berselimut sesal<br />Adakah tersisa taman yang indah?<br />Di mana cinta masih sempurna</p><p>Ke mana harusnya kaki melangkah?<br />Ketika hati berselimut sesal,<br />Adakah tersisa taman yang indah?<br />Di mana cinta masih sempurna</p><p>Di mana cinta<br />(Di mana cinta masih sempurna)<br />Masih sempurna<br />(Di mana cinta masih sempurna)<br />Masih sempurna<br />(Di mana cinta masih sempurna)</p>"
+    },
+    {
+      "id": 12,
+      "title": "Pudar",
+      "category": "God Bless",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/god-bless.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/god-bless-pudar.mp3?rewarded=true",
+      "lyric": "<p>Berat bagiku<br />&#39;Tuk melupakan<br />Hari-hari manis<br />Dan indah bersamamu</p><p>Berat bagiku<br />&#39;Tuk mengucapkan<br />Kata berpisah<br />Yang tak sanggup lagi kusimpan</p><p>Telah lama kucoba<br />&#39;Tuk pertahankan<br />Cinta ini hingga ku lelah<br />Dan terhenti</p><p>Namun, masihkah ada<br />Yang pantas kita pertahankan?<br />Kala lilin cinta<br />Mulai memudar sirna (sirna)</p><p>Namun, masihkah ada<br />Yang pantas kita pertahankan?<br />Kala lilin cinta<br />Mulai memudar sirna (sirna)</p><p>Namun, masihkah ada<br />Hangat untuk didekap?<br />Kala peluk cinta<br />Sudah dingin tanpa aura (aura)</p>"
+    },
+    {
+      "id": 13,
+      "title": "Rock N Roll Hidupku",
+      "category": "God Bless",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/god-bless.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/god-bless-rock-n-roll-hidupku.mp3?rewarded=true",
+      "lyric": "<p>Tak ada yang lebih pantas untuk kuucapkan<br />Kecuali rasa syukur yang mendalam<br />Atas segala berkah yang telah kudapatkan</p><p>Tak ada yang lebih pantas untuk kulakukan<br />Kecuali hasrat tulus &#39;tuk bertahan<br />Atas segala kodrat yang telah kuterima</p><p>Rock &#39;n&#39; roll hidupku<br />Tiada resah hinggapi diriku<br />Rock &#39;n&#39; roll darahku<br />Tiada rintang kalahkan semangatku, yeah</p><p>Tak ada yang lebih pantas untuk kudendangkan<br />Kecuali nada tentang kedamaian<br />Yang jadi dambaan bagi setiap insan</p><p>Yeah-hu</p><p>Yeah</p><p>Rock &#39;n&#39; roll hidupku<br />Tiada resah hinggapi diriku<br />Rock &#39;n&#39; roll darahku<br />Tiada rintang kalahkan semangatku, hu-uh</p><p>Tak ada yang lebih pantas untuk kudendangkan<br />Kecuali nada tentang kedamaian<br />Yang jadi dambaan bagi setiap insan<br />Yang jadi impian bagi setiap insan<br />Yang jadi dambaan-</p><p>Rock &#39;n&#39; roll hidupku<br />Rock &#39;n&#39; roll darahku<br />Rock &#39;n&#39; roll semangatku<br />Yeay-yeay-yeay</p>"
+    },
+    {
+      "id": 14,
+      "title": "Rumah Kita",
+      "category": "God Bless",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/god-bless.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/god-bless-rumah-kita.mp3?rewarded=true",
+      "lyric": "<p>Hanya bilik bambu tempat tinggal kita<br />Tanpa hiasan, tanpa lukisan<br />Beratap jerami, beralaskan tanah<br />Namun, semua ini punya kita<br />Memang semua ini milik kita sendiri</p><p>Hanya alang-alang pagar rumah kita<br />Tanpa anyelir, tanpa melati<br />Hanya bunga bakung tumbuh di halaman<br />Namun, semua itu punya kita<br />Memang semua itu milik kita</p><p>Haruskah kita beranjak ke kota<br />Yang penuh dengan tanya?</p><p>Lebih baik di sini<br />Rumah kita sendiri<br />Segala nikmat dan anugerah Yang Kuasa<br />Semuanya ada di sini<br />Rumah kita</p><p>Lebih baik di sini<br />Rumah kita sendiri<br />Segala nikmat dan anugerah Yang Kuasa<br />Semuanya ada di sini<br />Rumah kita</p><p>Lebih baik di sini<br />Rumah kita sendiri<br />Segala nikmat dan anugerah Yang Kuasa<br />Semuanya ada di sini</p><p>Lebih baik di sini<br />Rumah kita sendiri<br />Segala nikmat dan anugerah Yang Kuasa<br />Semuanya ada di sini<br />Rumah kita</p><p>Rumah kita</p>"
+    },
+    {
+      "id": 15,
+      "title": "Sahabat",
+      "category": "God Bless",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/god-bless.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/god-bless-sahabat.mp3?rewarded=true",
+      "lyric": "<p>Oh dia yang tampan, oh dia yang lucu<br />Kadang nakal, kadang juga lugu (oh ya..)<br />Suatu pagi dia mengajak, mengajakku lari<br />Hingga jatuh kar&rsquo;na kelelahan (oh ya..)</p><p>(Lari lari lari melompat<br />Kejar kejar kejar berputar<br />Naik naik naik menyentak<br />Larimu kencang!!)</p><p>Kaulah ceriaku hu.u.u..<br />(Kau memang sahabatku)<br />Kaulah pelipurku hu.u.u..<br />(Kau memang sahabatku)</p><p>Tak ada yang peduli,<br />Hanya aku saja yang kau anggap aku saudaramu (oh yea..)<br />Oh dia yang lucu, yang sayang padaku<br />Curi hati, memikat diriku...</p><p>Oh dia yang lucu, yang sayang padaku<br />Curi hati, memikat diriku (oh ya..)...</p>"
+    },
+    {
+      "id": 16,
+      "title": "Hidup Di Bui",
+      "category": "D'Lloyd",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/dlloyd.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/dlloyd-hidup-di-bui.mp3?rewarded=true",
+      "lyric": "<p>Hidup di bui bagaikan burung<br />Bangun pagi makan nasi jagung<br />Tidur di ubin pikiran bingung<br />Apa daya badanku terkurung</p><p>Terompet pagi kita harus bangun<br />Makan diantri nasinya jagung<br />Tidur di ubin pikiran bingung<br />Apa daya badanku terkurung</p><p>Oh kawan dengar lagu ini<br />Hidup di bui menyiksa diri<br />Jangan sampai kawan mengalami<br />Badan hidup terasa mati</p><p>Apalagi penjara zaman perang<br />Masuk gemuk pulang tinggal tulang<br />Karena kerja secara paksa<br />Tua-muda turun ke sawah</p><p>Oh kawan dengar lagu ini<br />Hidup di bui menyiksa diri<br />Jangan sampai kawan mengalami<br />Badan hidup terasa mati</p><p>Apalagi penjara zaman perang<br />Masih gemuk pulang tinggal tulang<br />Karena kerja secara paksa<br />Tua-muda turun ke sawah</p>"
+    },
+    {
+      "id": 17,
+      "title": "Keagungan Tuhan",
+      "category": "D'Lloyd",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/dlloyd.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/dlloyd-keagungan-tuhan.mp3?rewarded=true",
+      "lyric": "<p>Insyaflah wahai manusia<br />Jika dirimu bernoda<br />Dunia hanya naungan<br />&#39;Tuk makhluk ciptaan Tuhan</p><p>Dengan tiada terduga<br />Dunia ini &#39;kan binasa<br />Kita kembali ke asalnya<br />Menghadap Tuhan Yang Esa</p><p>Dialah pengasih dan penyayang<br />Kepada semua insan<br />Janganlah ragu atau bimbang<br />Pada keagungan Tuhan<br />Betapa Maha Besarnya<br />Pencipta alam semesta</p><p>Siapa selalu berbakti<br />Mengabdi pada Ilahi<br />&#39;Kan sentosa selamanya<br />Di dunia dan akhir masa</p><p>Dialah pengasih dan penyayang<br />Kepada semua insan<br />Janganlah ragu atau bimbang<br />Pada keagungan Tuhan<br />Betapa Maha Besarnya<br />Pencipta alam semesta</p><p>Siapa selalu berbakti<br />Mengabdi pada Ilahi<br />&#39;Kan sentosa selamanya<br />Di dunia dan akhir masa</p>"
+    },
+    {
+      "id": 18,
+      "title": "Mengapa Harus Jumpa",
+      "category": "D'Lloyd",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/dlloyd.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/dlloyd-mengapa-harus-jumpa.mp3?rewarded=true",
+      "lyric": "<p>Mengapakah kita harus berjumpa<br />Di kala kau telah berdua<br />Berdosakah diriku kepadanya<br />&#39;Pabila aku mencintaimu</p><p>Namun kini apalah dayaku<br />Semua kini telah terjadi<br />Walaupun kau sayang kepadaku<br />Tak mungkin oh tak mungkin</p><p>Oh Tuhan Yang Kuasa<br />Berilah petunjuk-Mu<br />Betapa pedih kurasakan<br />Kasihku tak sampai</p><p>Kembalilah kau kepadanya, sayang<br />Biarkanlah kini kusendiri<br />Doaku selalu menyertaimu<br />Semoga kau berdua bahagia</p><p>Oh Tuhan Yang Kuasa<br />Berilah petunjuk-Mu<br />Betapa pedih kurasakan<br />Kasihku tak sampai<br />Kembalilah kau kepadanya sayang<br />Biarkanlah kini ke sendiri<br />Do&#39;aku selalu menyertaimu<br />Semoga kau berdua bahagia.</p>"
+    },
+    {
+      "id": 19,
+      "title": "Oh Tak Mungkin",
+      "category": "D'Lloyd",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/dlloyd.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/dlloyd-oh-tak-mungkin.mp3?rewarded=true",
+      "lyric": "<p>Oh tak mungkin, tak mungkin aku kembali<br />Oh tak mungkin, tak mungkin kudatang lagi<br />Cukup sudah kau menyakiti hatiku<br />Cukup sudah kau berdusta padaku</p><p>Jangan kau datang lagi<br />Jangan kau hirau lagi diriku ini<br />Tiada sakit hati tiada arti lagi<br />Walaupun kau sayang pada diriku</p><p>Oh tak mungkin, tak mungkin aku kembali<br />Oh tak mungkin, tak mungkin kudatang lagi<br />Cukup sudah kau menyakiti hatiku<br />Cukup sudah kau berdusta padaku</p><p>La-la-la-la-la-la-la<br />La-la-la-la-la-la-la<br />La-la-la-la-la<br />La-la-la-la-la-la-la<br />La-la-la-la-la-la-la<br />La-la-la-la-la-la-la<br />La-la-la-la</p><p>Oh tak mungkin, tak mungkin aku kembali<br />Oh tak mungkin, tak mungkin kudatang lagi<br />Cukup sudah kau menyakiti hatiku<br />Cukup sudah kau berdusta padaku</p><p>La-la-la-la-la-la-la<br />La-la-la-la-la-la-la<br />La-la-la-la-la<br />La-la-la-la-la-la-la<br />La-la-la-la-la-la-la<br />La-la-la-la-la-la-la<br />La-la-la-la</p>"
+    },
+    {
+      "id": 20,
+      "title": "Rintihan Hidup",
+      "category": "D'Lloyd",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/dlloyd.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/dlloyd-rintihan-hidup.mp3?rewarded=true",
+      "lyric": "<p>Mengapa terjadi<br />Di dunia ini<br />Derita yang pernah<br />Ku alami</p><p>Mungkinkah<br />Percobaan bagi diriku<br />Karena dosa dan kesalahanku</p><p>Walaupun apa yang<br />Akan terjadi<br />Akan ku tempuh juga hidup ini</p><p>Namun ku<br />Harus tabah menerimanya<br />Biarpun sampai di akhir nanti</p><p>Hanya doa yang dapat ku panjatkan<br />Agar hidupku<br />Nantikan bahagia</p><p>Oh Tuhan<br />Mengapa harus terjadi<br />Rintangan hidup yang ku alami</p><p>Semua ini hanya datang darimu<br />Ku rela diriku menerimanya</p><p>Hanya doa yang dapatku panjatkan<br />Agar hidupku<br />Nantikan bahagia</p><p>Oh Tuhan<br />Mengapa harus terjadi<br />Rintangan hidup yang ku alami</p><p>Semua ini hanya datang darimu<br />Ku rela diriku menerimanya</p><p>Ku rela diriku menerimanya</p>"
+    },
+    {
+      "id": 21,
+      "title": "Jabal Rahmah",
+      "category": "Bimbo",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/bimbo.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/bimbo-jabal-rahmah.mp3?rewarded=true",
+      "lyric": "<p>Ada padang pasir Arafah<br />Terbentang amat luasnya<br />Ada gunung kecil bernama Jabal Rahmah<br />Berdiri dengan kukuhnya</p><p>Ada tugas berat selesai<br />Dua puluh tiga tahun<br />Terdengar dalam amanat-Nya<br />Di Jabal Rahmah</p><p>Lelaki agung itu<br />Salawat dan salam baginya</p><p>Dia sampaikan firman dari Tuhan<br />Hari ini telah Kusempurnakan agamamu<br />Dan telah Kucukupkan nikmatKu bagimu<br />Dan telah Kurelakan Islam jadi agamamu</p><p>Alangkah mulia tugasnya<br />Rahmat bagi alam semesta<br />Alangkah besar syukur kita<br />Salawat dan salam baginya</p>"
+    },
+    {
+      "id": 22,
+      "title": "Sajadah Panjang",
+      "category": "Bimbo",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/bimbo.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/bimbo-sajadah-panjang.mp3?rewarded=true",
+      "lyric": "<p>Ada sajadah panjang terbentang<br />Dari kaki buaian<br />Sampai ke tepi kuburan hamba<br />Kuburan hamba bila mati</p><p>Ada sajadah panjang terbentang<br />Hamba tunduk dan sujud<br />Di atas sajadah yang panjang ini<br />Diselingi sekedar interupsi</p><p>Mencari rezeki mencari ilmu<br />Mengukur jalanan seharian<br />Begitu terdengar suara adzan<br />Kembali tersungkur hamba</p><p>Ada sajadah panjang terbentang<br />Hamba tunduk dan rukuk<br />Hamba sujud tak lepas kening hamba<br />Mengingat Dikau sepenuhnya.</p>"
+    },
+    {
+      "id": 23,
+      "title": "Salam Sayang",
+      "category": "Bimbo",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/bimbo.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/bimbo-salam-sayang.mp3?rewarded=true",
+      "lyric": "<p>Salam sayang kasih sayang<br />Salam sayang kau seorang<br />Salam sayang kasih sayang<br />Salam sayang kau seorang</p><p>Kala kau jauh daku rindu<br />Gitar dan lagu kawanku<br />Nyanyian hati seperti puisi<br />Daku sendiri menanti</p><p>Salam sayang kasih sayang<br />Salam sayang kau seorang<br />Salam sayang kasih sayang<br />Salam sayang kau seorang</p><p>Kala kau jauh daku rindu<br />Gitar dan lagu kawanku<br />Nyanyian hati seperti puisi<br />Daku sendiri menanti</p><p>Salam sayang kasih sayang<br />Salam sayang kau seorang<br />Salam sayang kasih sayang<br />Salam sayang kau seorang</p>"
+    },
+    {
+      "id": 24,
+      "title": "Semalam Di Malaysia",
+      "category": "Bimbo",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/bimbo.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/bimbo-semalam-di-malaysia.mp3?rewarded=true",
+      "lyric": "<p>Aku pulang dari rantau<br />Bertahun-tahun di negri orang, oh Malaysia<br />Oh di mana kawan dulu<br />Kawan dulu yang sama berjuang, oh Malaysia</p><p>Kekasih hatipun telah pula hilang<br />Hilang tiada pesan<br />Aduhai nasib, apakah daya<br />Cinta hamba jiwaku merana, mana dinda</p><p>Inilah kisahku semalam di Malaysia<br />Diri t&#39;rasa sunyi<br />Aduhai nasib, apakah daya<br />Aku hanya seorang pengembara yang hina</p>"
+    },
+    {
+      "id": 25,
+      "title": "Tuhan",
+      "category": "Bimbo",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/bimbo.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/bimbo-tuhan.mp3?rewarded=true",
+      "lyric": "<p>Tuhan<br />Tempat aku berteduh<br />Di mana aku mengeluh<br />Dengan segala peluh</p><p>Tuhan<br />Tuhan Yang Maha Esa<br />Tempat aku memuja<br />Dengan segala doa</p><p>Aku jauh, Engkau jauh<br />Aku dekat, Engkau dekat<br />Hati adalah cermin<br />Tempat pahala dosa bertaruh</p><p>Tuhan<br />Tuhan Yang Maha Esa<br />Tempat aku memuja<br />Dengan segala doa</p><p>Tuhan<br />Tuhan Yang Maha Esa<br />Tempat aku memuja<br />Dengan segala doa</p><p>Aku jauh, Engkau jauh<br />Aku dekat, Engkau dekat<br />Hati adalah cermin<br />Tempat pahala dosa bertaruh</p><p>Tuhan<br />Tuhan Yang Maha Esa<br />Tempat aku memuja<br />Dengan segala doa</p>"
+    },
+    {
+      "id": 26,
+      "title": "Usah Kau Harap Lagi",
+      "category": "The Mercys",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/the-mercys.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/the-mercys-usah-kau-harap.mp3?rewarded=true",
+      "lyric": "<p>Usah kau kenang lagi sayang<br>Masa yang telah silam<br>Walau derita<br>Akan menimpa</p>  <p>Usah kau harap lagi sayang<br>Cintaku telah hilang<br>Anggaplah itu<br>Mimpi di hari siang</p>  <p>Sejak engkau dusta padaku<br>Kau punya yang baru<br>Walau engkau katakan &#8220;bukan&#8221;<br>Hatiku telah beku</p>  <p>Usah kau kenang lagi sayang<br>Masa yang telah silam<br>Walau derita<br>Akan menimpa</p>  <p>Sejak engkau dusta padaku<br>Kau punya yang baru<br>Walau engkau katakan &#8220;bukan&#8221;<br>Hatiku telah beku</p>  <p>Usah kau kenang lagi sayang<br>Masa yang telah silam<br>Walau derita<br>Akan menimpa</p>  <p>Usah kau harap lagi sayang<br>Cintaku telah hilang<br>Anggaplah itu<br>Mimpi di hari siang</p>"
+    },
+    {
+      "id": 27,
+      "title": "Bunga Mawar",
+      "category": "The Mercys",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/the-mercys.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/the-mercys-bunga-mawar.mp3?rewarded=true",
+      "lyric": "<p>Oh bunga mawar<br />Kau idaman hati<br />Yang ku puja-puja selalu</p><p>Ingin hatiku<br />Oh memetik dikau<br />Tapi apa daya tak sampai</p><p>Oh bunga nan rupawan<br />Rindu hati siang dan malam<br />Hasratku ingin berdua selamanya<br />Kemana ku mengadu bulan bintang pun tak tahu<br />Cintaku hanyalah satu kekasihku</p><p>Oh bunga mawar<br />Kau idaman hati<br />Yang ku puja-puja selalu</p><p>Ingin hatiku<br />Oh memetik dikau<br />Tapi apa daya tak sampai</p><p>Oh bunga nan rupawan<br />Rindu hati siang dan malam<br />Hasratku ingin berdua selamanya<br />Kemana ku mengadu bulan bintang pun tak tahu<br />Cintaku hanyalah satu kekasihku</p>"
+    },
+    {
+      "id": 28,
+      "title": "Baju Baru",
+      "category": "The Mercys",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/the-mercys.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/the-mercys-baju-baru.mp3?rewarded=true",
+      "lyric": "<p>Mama, Mama, Mama, Ma, tolonglah<br />Belikanku baju yang baru, Ma<br />Mama, Mama, Mama, Ma, tolonglah<br />Untuk kupakai hari Minggu, Ma</p><p>Mama, Mama, Mama, Ma, tolonglah<br />Dia menungguku di sana, Ma<br />Mama, Mama, Mama, Ma, tolonglah<br />Kuinginkan baju yang baru, Ma</p><p>Mama, Mama, beli baju baruku<br />Mama, Mama, esok &#39;kan hari Minggu</p><p>Mama, Mama, Mama, Ma, tolonglah<br />Belikanku baju yang baru, Ma<br />Mama, Mama, Mama, Ma, tolonglah<br />Untuk kupakai hari Minggu, Ma</p><p>Mama, Mama, beli baju baruku<br />Mama, Mama, esok &#39;kan hari Minggu</p><p>Mama, Mama, Mama, Ma, tolonglah<br />Belikanku baju yang baru, Ma<br />Mama, Mama, Mama, Ma, tolonglah<br />Untuk kupakai hari Minggu, Ma</p>"
+    },
+    {
+      "id": 29,
+      "title": "Biarkan Ku Sendiri",
+      "category": "The Mercys",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/the-mercys.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/the-mercys-biarkan-ku-sendiri.mp3?rewarded=true",
+      "lyric": "<p>Terlalu cepat kau tergoda, kasihku<br />Terlalu cepat kau serahkan cintamu<br />Tak dapat lagi kumaafkan salahmu<br />Sayang, biar ku sendiri</p><p>Dalam malam kelam, ku duduk sendiri<br />Tiada teman lagi<br />Tetes air mata tak terasa sudah<br />Membasahi pipi</p><p>Ku tak sangka kau berbuat begitu<br />Ku tak sangka malangnya nasibku<br />Apalah dayaku saat ini<br />Tuhan, tolonglah hamba-Mu</p><p>Dalam malam kelam, ku duduk sendiri<br />Tiada teman lagi<br />Tetes air mata tak terasa sudah<br />Membasahi pipi</p><p>Terlalu cepat kau tergoda, kasihku<br />Terlalu cepat kau serahkan cintamu<br />Tak dapat lagi kumaafkan salahmu<br />Sayang, biar ku sendiri</p>"
+    },
+    {
+      "id": 30,
+      "title": "Dalam Kerinduan",
+      "category": "The Mercys",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/the-mercys.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/the-mercys-dalam-kerinduan.mp3?rewarded=true",
+      "lyric": "<p>Telah lama kau tinggal sayang<br />Telah lama kau pergi sayang<br />Ingatkah kau pada diriku<br />Yang rindu padamu</p><p>Betapa sedih rasa di hati<br />Yang kunanti tiada kembali<br />Haruskah kuhidup sendiri<br />Tanpa kawan lagi</p><p>Dalam kerinduan kumenanti sayang<br />Dalam kerinduan hatiku</p><p>Dalam kerinduan kumenanti sayang<br />Dalam kerinduan hatiku</p><p>Telah lama kau tinggal sayang<br />Telah lama kau pergi sayang<br />Ingatkah kau pada diriku<br />Yang rindu padamu</p><p>Ingatkah kau pada diriku<br />Yang rindu padamu</p>"
+    }
+  ]
+}
